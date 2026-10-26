@@ -20,8 +20,8 @@ The causal estimates here are derived from observational data and are **associat
 
 **No data are included in this repository.** All analyses use access-controlled datasets that cannot be shared:
 
-- **UK Biobank** - primary cohort. Access is application-based via the UK Biobank Access Management System. Main analytic cohort: **13,391** participants with diabetes and statin prescriptions.
-- **CPRD** (Clinical Practice Research Datalink) - replication cohort using linked primary care records. Access is licensed and governed by CPRD approvals. Replication cohort: **131,310** patients.
+- **CPRD** (Clinical Practice Research Datalink) - primary cohort using linked primary care records. Access is licensed and governed by CPRD approvals. Main analytic cohort: **128,535** patients. Participants with diabetes and long-term statin prescriptions.
+- **UK Biobank** - replication cohort. Access is application-based via the UK Biobank Access Management System. Replication cohort: **10,686**.
 
 To reproduce these analyses you must hold your own approved access to the relevant dataset(s).
 
